@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ValarmActivity!</string>
+    <string name="app_name">Valarm Clock</string>
+    <string name="one_shot_scheduled">The one shot alarm has been scheduled</string>
+    <string name="one_shot_unscheduled">The one shot alarm has been unscheduled</string>
+    <string name="one_shot_received">The one-shot alarm is ringing</string>
+    <string name="one_shot_alarm">One Shot Alarm</string>
+	<string name="repeating_received">The repeating alarm has gone off</string>
+    <string name="repeating_scheduled">Repeating alarm will go off until dismissed</string>
+    <string name="repeating_unscheduled">Repeating alarm has been unscheduled</string>
+    <string name="start_repeating_alarm">Start Repeating Alarm</string>
+    <string name="stop_repeating_alarm">Stop Repeating Alarm</string>
+</resources>
